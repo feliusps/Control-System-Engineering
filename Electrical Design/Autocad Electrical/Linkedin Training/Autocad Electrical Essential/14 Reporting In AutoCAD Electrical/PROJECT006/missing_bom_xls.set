@@ -1,0 +1,11 @@
+﻿Report = Missing Bill of Material
+Format = (0 2 3 4 5 )
+Title = ("TAGNAME" "INST" "LOC" "DESC1" "DESC2" "DESC3" "REF" "TABNAM" "HDL" "CATEGORY" "SH" "SHDWGNAM" "FILENAME" )
+Characters = (60 24 16 60 60 60 12 32 18 3 12 40 255 )
+Justification = ("L" "L" "L" "L" "L" "L" "L" "L" "L" "L" "R" "L" "L" )
+Sorting = (1 2 2 2 )
+Output File Type = XLS
+Output File Name = "C:/Users/Feliu/Documents/Acade 2024/AeData/Proj/Autocad Electrical/LINKEDIN/14 Reporting In AutoCAD Electrical/PROJECT006/Missing_BOM.xls"
+Include Options = ("0" "0" "0" "1" "1" "1" "0" "0" "0" "0" "0" "0" "0" "0" "" "0" )
+Location Options = (1 nil )
+Installation Options = (1 "" )
