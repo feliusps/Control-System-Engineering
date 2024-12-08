@@ -1,0 +1,538 @@
+﻿*[1]LINKEDIN
+*[2]AUTOCAD ELECTRICAL
+*[3]Project
+*[4]1
+*[5]06/22/2023
+*[6]F
+*[7]F
+*[8]F
+*[9]1
++[1]%SL_DIR%jic125/;%SL_DIR%jic125/1-/;%SL_DIR%pneu_iso125/;%SL_DIR%hyd_iso125/;%SL_DIR%pid/
++[2]C:\Users\Feliu\AppData\Roaming\Autodesk\AutoCAD Electrical 2024\R24.3\enu\Support\ACE_JIC_MENU.DAT
++[3]%SL_DIR%panel/
++[4]C:\Users\Feliu\AppData\Roaming\Autodesk\AutoCAD Electrical 2024\R24.3\enu\Support\ACE_JIC_MENU.DAT
++[5]1
++[6]0
++[7]
++[8]0
++[9]1,2,3,4,5,6,7,8,9
++[10]0
++[11]1
++[12]0
++[13]0
++[14]0
++[15]0
++[16]
++[17]
++[18]0
++[19]0
++[20]
++[21]0
++[22]
++[23]0
++[24]
++[25]1
++[26](0.00000 0.03125 0.00000 )
++[27]
++[28]0
++[29]0
++[30]0.000000
++[32]1
++[33]
++[34]0
++[35];
++[36]0
++[37]0
++[38]
+?[0]H
+?[1]1
+?[2]R
+?[3]1
+?[4],A,B,C,D,E,F,G,H,J
+?[5]%F%N
+?[6]R
+?[7]1
+?[8],A,B,C,D,E,F,G,H,J,K,L,M,N
+?[9]%N
+?[10]1
+?[11]0.75
+?[12]4.5
+?[14]%N
+?[15]1
+?[16]0
+?[17]0.5
+?[18]
+?[19]
+?[20]2.0
+?[21]2.0
+?[22]A
+?[23]1
+?[24]1
+?[25]-
+?[26]WIRES
+?[27]WIRENO
+?[28]WIRECOPY
+?[29]WIREFIXED
+?[30]1.0
+?[31]1.0
+?[32]TAGS
+?[33]XREF
+?[34]DESC
+?[35]TERMS
+?[36]XREFCHILD
+?[37]DESCCHILD
+?[38]LOC
+?[39]POS
+?[40]MISC
+?[41]0
+?[42]1
+?[43]1
+?[44]LINK
+?[45]SYMS
+?[47]%N
+?[48]TAGFIXED
+?[49]1
+?[50]0
+?[51]
+?[52]
+?[53]
+?[54]WIREREF
+?[55]
+?[56]_MULTI_WIRE
+?[57]1
+?[58]LOCBOX
+?[59]
+?[60]0
+?[61]0
+?[62]0
+?[63]
+?[64]0
+?[65],
+?[66]1
+?[67]0
+?[68]NO,NC,NONC
+?[69]Standard
+?[70]%T
+?[71]1,2,3,5
+?[72]W1,T1,TYPE,T2,W2,REF,SH,SHDWGNAM,FILENAME,FULLFILENAME
+?[73]MC,MC,MC,MC,MC,MC,MC,MC,L,L
+?[74]0.0
+?[75]1
+?[76]0.000000,0.031250,0.000000
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo01.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo02.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo03.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo04.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo05.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo06.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo07.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo08.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\demo09.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Demo\Demo100.dwg
+=====SUB=02 MANAGE FILES AND PROJECTS
+02 Managing Files And Projects\Managing_Projects\DEMO99.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo01.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo02.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo03.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo04.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo05.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo06.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo07.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo08.dwg
+=====SUB=03 NAVIGATE IN THE DRAWING
+03 Navigating In A Drawing\NAVIGATING_IN_A_DRAWING\demo09.dwg
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO01.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO02.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO03.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO04.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO05.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO06.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO07.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO08.DWG
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO09.DWG
+=====SUB=04 WORK IN A PROJECT
+DEMO101.dwg
+=====SUB=04 WORK IN A PROJECT
+04 Working In A Project\Demo\DEMO100.dwg
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO01.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO02.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO03.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO04.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO05.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO06.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO07.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO08.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO09.DWG
+=====SUB=05 SINGLE WIRES AND COMPONENTS
+05 Schematics - Single Wires And Components\Demo\DEMO10.dwg
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO01.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO02.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO03.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO04.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO05.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO06.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO07.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO08.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO09.DWG
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO10.dwg
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\DEMO11.dwg
+=====SUB=06 MULTIWIRING AND CIRCUITS
+06 Schematics - Multiwiring And Circuits\Demo\circuit1.dwg
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO01.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO02.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO03.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO04.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO05.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO06.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO07.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO08.DWG
+=====SUB=07 EDITING COMMANDS
+07 AutoCAD Electrical Editing Commands\Demo\DEMO09.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO01.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO02.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO03.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO04.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO05.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO06.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO07.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO08.DWG
+=====SUB=08 PANEL DRAWINGS
+08 Working With Panel Drawings\Demo\DEMO09.DWG
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\BOM.dwg
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\Cabinet.dwg
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\Contents.dwg
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\Control.dwg
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\Operator Station.dwg
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\Power.dwg
+=====SUB=09 TERMINAL
+09 Working With Terminals\PROJECT001\POWER2.DWG
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\BOM.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\Cabinet.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\Contents.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\Control.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\Operator Station.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\PLC Drawing.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\PLC Drawing_02.dwg
+=====SUB=10 PLC SYMBOLS
+10 Using PLC Symbols\PROJECT002\Power.dwg
+=====SUB=10 PLC SYMBOLS
+plc1_01.dwg
+=====SUB=10 PLC SYMBOLS
+plc1_02.dwg
+=====SUB=10 PLC SYMBOLS
+plc1_03.dwg
+=====SUB=11 POINT TO POINT WIRING
+11 Using Point To Point Wiring\PROJECT003\Point_to_point_01.dwg
+=====SUB=11 POINT TO POINT WIRING
+11 Using Point To Point Wiring\PROJECT003\Point_to_point_02.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\Control.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\Custom_symbol_PS.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\HMY1_DONE.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\HPW1_POWERSUPPLY.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\Operator Station.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\push_button.dwg
+=====SUB=12 CREATE CUSTOM SYMBOLS
+12 Creating Custom Symbols\PROJECT004\push_button_generic.dwg
+=====SUB=13 TITLEBLOCKS
+13 AutoCAD Electrical Titleblocks\PROJECT005\Control.dwg
+=====SUB=13 TITLEBLOCKS
+13 AutoCAD Electrical Titleblocks\PROJECT005\Operator Station.dwg
+=====SUB=13 TITLEBLOCKS
+13 AutoCAD Electrical Titleblocks\PROJECT005\Titleblock.dwg
+=====SUB=14 REPORT
+14 Reporting In AutoCAD Electrical\PROJECT006\BOM.dwg
+=====SUB=14 REPORT
+14 Reporting In AutoCAD Electrical\PROJECT006\Cabinet.dwg
+=====SUB=14 REPORT
+14 Reporting In AutoCAD Electrical\PROJECT006\Contents.dwg
+=====SUB=14 REPORT
+14 Reporting In AutoCAD Electrical\PROJECT006\Control.dwg
+=====SUB=14 REPORT
+14 Reporting In AutoCAD Electrical\PROJECT006\Operator Station.dwg
+=====SUB=14 REPORT
+14 Reporting In AutoCAD Electrical\PROJECT006\Power.dwg
+===project Reports
+===
+===
+=====SUB=14 REPORT
+Reports.dwg
+=====SUB=14 REPORT
+REPORTT.DWG
+=====SUB=14 REPORT
+14 REPORTING IN AUTOCAD ELECTRICAL\PROJECT006\PROJECT_REPORT_14.DWG
+=====SUB=15 SETTINGS AND TEMPLATES
+15 Settings And Templates\PROJECT006\BOM.dwg
+=====SUB=15 SETTINGS AND TEMPLATES
+15 Settings And Templates\PROJECT006\Cabinet.dwg
+=====SUB=15 SETTINGS AND TEMPLATES
+15 Settings And Templates\PROJECT006\Contents.dwg
+=====SUB=15 SETTINGS AND TEMPLATES
+15 Settings And Templates\PROJECT006\Control.dwg
+=====SUB=15 SETTINGS AND TEMPLATES
+15 Settings And Templates\PROJECT006\Operator Station.dwg
+===
+===
+===
+=====SUB=15 SETTINGS AND TEMPLATES
+Panel 01.dwg
+===Power
+===Schematics
+=====SUB=15 SETTINGS AND TEMPLATES
+15 Settings And Templates\PROJECT006\Power.dwg
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO01.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO02.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO03.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO04.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO05.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO06.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO07.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO08.DWG
+=====SUB=16 DRAWING UPDATE TOOL
+16 Using Drawing Update Tools\Demo\DEMO09.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO01.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO02.dwg
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO03.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO04.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO05.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO06.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO07.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO08.DWG
+=====SUB=17 NEW FEATURES
+17 New Features\Demo\DEMO09.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO01.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO02.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO03.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO04.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO05.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO06.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO07.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO08.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\DEMO09.DWG
+=====SUB=18 INTRO TO PLC
+18 Introduction To PLC Modules\Demo\demo10.dwg
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO01.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO02.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO03.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO04.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO05.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO06.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO07.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO08.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO09.DWG
+=====SUB=19 SETTING UP LADDERS
+19 Setting Up Ladders In Electrical Drawings\Demo\DEMO 10.dwg
+===
+===
+===
+=====SUB=19 SETTING UP LADDERS
+DEMO 11.dwg
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO01.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO02.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO03.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO04.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO05.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO06.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO07.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO08.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO09.DWG
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO 10.dwg
+=====SUB=20 TYPE OF PLC MODULES
+20 The Different Types Of PLC Modules In AutoCAD Electrical\Demo\DEMO 11.dwg
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO01.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO02.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO03.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO04.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO05.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO06.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO07.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO08.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\DEMO09.DWG
+=====SUB=21 PARAMETRIC PLC MODULES
+21 Parametric PLC Modules In More Detail\Demo\demo10.dwg
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO01.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO02.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO03.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO04.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO05.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO06.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO07.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO08.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\DEMO09.DWG
+=====SUB=22 FULL_UNIT PLC MODULE
+22 Full Unit PLC Modules In More Detail\Demo\demo10.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\BOM.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\Cabinet.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\Contents.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\Control.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\Operator Station.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\PLC Drawing.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\PLC Drawing_02.dwg
+=====SUB=23 SPREADSHEETS TO IMPORT PLC MODULE DATA
+23 Using Spreadsheets To Import PLC Module Data\Project\Power.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\BOM.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\Cabinet.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\Contents.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\Control.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\Operator Station.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\PLC Drawing.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\PLC Drawing_02.dwg
+=====SUB=24 EXPORTING SPREADSHEETS FROM EXISTING PLC MODULES
+24 Exporting Spreadsheets From Existing PLC Modules\Project\Power.dwg
